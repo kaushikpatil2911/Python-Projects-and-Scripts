@@ -13,10 +13,6 @@ Welcome to the Python Concepts Repository! This repository is designed to serve 
 
 Python stands as one of the most versatile, popular, and widely used programming languages in the world. Renowned for its simplicity, readability, and powerful capabilities, Python finds applications across various domains, including web development, data science, machine learning, automation, scientific computing, and beyond. This repository aims to provide an in-depth educational resource, offering Python scripts and projects that elucidate fundamental concepts, advanced techniques, and real-world applications, thus empowering learners and practitioners alike to harness the full potential of Python.
 
-## Scripts and Projects Overview
-
-### Scripts
-
 #### Core Concepts
 
 - **Variables and Data Types**: This section explores the fundamental concepts of Python variables, data types (integers, floats, strings), and basic arithmetic operations. It serves as a foundational stepping stone for understanding Python programming principles.
@@ -50,11 +46,3 @@ Feel free to explore the scripts and projects, experiment with them, and adapt t
 
 - [Scripts](https://github.com/kaushikpatil2911/Python-Projects-and-Scripts/tree/master/Python%20Scripts): Discover a comprehensive array of Python scripts meticulously organized into subdirectories, covering fundamental concepts and advanced techniques.
 - [Projects](https://github.com/kaushikpatil2911/Python-Projects-and-Scripts/tree/master/Python%20Projects): Engage in exciting Python projects spanning diverse domains, each project offering hands-on experience and practical insights into real-world applications.
-
-## How to Use
-
-1. **Clone or Download**: Clone or download this repository to your local machine to access the Python scripts and projects.
-2. **Setup Environment**: Set up your Python environment by installing the necessary dependencies and libraries mentioned in the project README files.
-3. **Explore Scripts and Projects**: Navigate to the desired script or project directory and explore the Python scripts or projects using your preferred Python IDE or text editor.
-4. **Execute Scripts or Run Projects**: Execute the Python scripts or run the projects in your Python environment to witness their magic unfold. Follow the instructions provided in the README files of each script or project for detailed usage guidelines.
-5. **Experiment and Customize**: Experiment with modifying the scripts or projects, customize them to meet your requirements, and let your creativity soar!
