@@ -5,7 +5,6 @@ Welcome to the Python Concepts Repository! This repository is designed to serve 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Scripts and Projects Overview](#scripts-and-projects-overview)
 - [Scripts and Projects Directory](#scripts-and-projects-directory)
 
 ## Introduction
