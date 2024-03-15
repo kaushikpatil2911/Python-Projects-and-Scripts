@@ -1,6 +1,6 @@
 # Python Concepts Repository
 
-Welcome to the Python Concepts Repository! This repository is designed to serve as an extensive educational platform for Python enthusiasts of all levels. It houses a diverse collection of meticulously crafted Python scripts and projects, carefully curated to cover a broad spectrum of concepts and applications. Whether you're an aspiring programmer taking your first steps in Python or a seasoned developer seeking to deepen your understanding of advanced topics, this repository offers a wealth of resources to enhance your skills and knowledge.
+Welcome to the Python Concepts Repository! This repository is designed to serve as an extensive educational platform for Python enthusiasts of all levels. It houses a diverse collection of meticulously crafted Python scripts and projects, carefully curated to cover a broad spectrum of concepts and applications.
 
 ## Table of Contents
 
